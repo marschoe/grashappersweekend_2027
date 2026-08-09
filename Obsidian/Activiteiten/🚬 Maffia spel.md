@@ -37,7 +37,7 @@ Daarnaast kunnen we een aantal spellen spelen via de iPad:
 | Verhoor | Vergelijkbaar met Puzzel, alleen nu met een tijdslimiet, en een geldstraf bij fout/te laat.   |
 | Muntje  | Coinflip, een team kan kiezen om te gokken voor extra/verlies geld.                           |
 
-![](assets/ipad.jpg)
+![](../assets/ipad.jpg){ width="400" }
 
 ---
 
