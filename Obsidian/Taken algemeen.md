@@ -3,7 +3,7 @@
 
 | Taak                                                 | Wie     | Deadline  | Notes                                                                  |
 | ---------------------------------------------------- | ------- | --------- | ---------------------------------------------------------------------- |
-| Gaten in de [[index\|Planning]] sluitend maken       |         | September |                                                                        |
+| Gaten in de planning sluitend maken                  |         | September |                                                                        |
 | [[Ontvoering]], inleidend spel, en eindspel bedenken |         | September |                                                                        |
 | **==MEETING==**                                      | Allen   | September | Planning rondmaken                                                     |
 | Vragenljist voor [[Wanted spel]]                     | Vera    | December  |                                                                        |
