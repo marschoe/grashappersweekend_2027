@@ -33,7 +33,7 @@ Daarnaast kunnen we een aantal spellen spelen via de iPad:
 
 ## Het Baas-paneel
 
-Wij kunnen inloggen op het Baas-paneel. Een controlepaneel waarin wij het spel leiden en de teams in de gaten houden. Het Baas-paneel bestaat uit 4 delen:<br>
+Wij kunnen [^1]inloggen op het [Baas-paneel](https://gtw-8f2k3.aanbeeld.com/admin.html).  Een controlepaneel waarin wij het spel leiden en de teams in de gaten houden. Het Baas-paneel bestaat uit 4 delen:<br>
 - Huidige scène<br>
 - Spelkeuze<br>
 - Spel-instellingen<br>
@@ -73,3 +73,5 @@ Hierin kunnen diverse instellingen zoals teamnamen en wachtwoorden gewijzigd wor
 Er is ook een LOG beschikbaar. Hierin worden alle acties binnen de applicatie geregistreerd.
 De status-button is een technische check of alles nog naar behoren werkt. Dit venster is ook beschikbaar op de iPad door 5x achter elkaar op de tijd links onderin te klikken.<br>
 ![](../assets/settings.jpg){ width="90" }
+
+[^1]: Het wachtwoord voor dit paneel staat in de groepsapp.
