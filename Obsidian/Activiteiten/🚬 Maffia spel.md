@@ -14,9 +14,6 @@ Een iPad zal centraal staan gedurende het weekend. Deze geeft de scores weer, ma
 
 Wat er gebeurt op iPad hebben wij in de hand via een controlepaneel op onze telefoon. Wij kiezen wat er te zien is, houden in de gaten wat de teams zelf doen, en kunnen corrigeren waar nodig.
 
-![](assets/ipad.jpg){ width="400" }
-
-
 ---
 
 #### De iPad
@@ -39,6 +36,8 @@ Daarnaast kunnen we een aantal spellen spelen via de iPad:
 | Wanted  | Eén van de teams moet een wanted-profiel aan de juiste persoon koppelen voor een geldbeloning |
 | Verhoor | Vergelijkbaar met Puzzel, alleen nu met een tijdslimiet, en een geldstraf bij fout/te laat.   |
 | Muntje  | Coinflip, een team kan kiezen om te gokken voor extra/verlies geld.                           |
+
+![](assets/ipad.jpg)
 
 ---
 
