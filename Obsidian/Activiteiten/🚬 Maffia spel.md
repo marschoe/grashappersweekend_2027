@@ -26,7 +26,7 @@ Daarnaast kunnen we een aantal spellen spelen via de iPad:
 | Verhoor | Vergelijkbaar met Puzzel, alleen nu met een tijdslimiet, en een geldstraf bij fout/te laat.   |
 | Muntje  | Coinflip, een team kan kiezen om te gokken voor extra/verlies geld.                           |
 
-![ipad](../assets/ipad.jpg){ width="400" }
+![ipad](../assets/ipad.jpg){ width="500" }
 
 
 ---
@@ -43,10 +43,10 @@ Wij kunnen inloggen op het Baas-paneel. Een controlepaneel waarin wij het spel l
 Door op de grote gele knoppen te klikken, wijzig je het momenteel zichtbare scherm op de iPad. Dit gebeurt live.
 
 Bij het aanvinken van het vinkje naast `🚨 Alarm bij volgende scènewissel (15 sec)` zal er eerst gedurende 15 seconden een alarm geluid klinken, en scherm knippert rood. Vervolgens komt automatisch de gekozen scène naar voren.<br>
-![](../assets/huidigescene.jpg){ width="400" }
+![](../assets/huidigescene.jpg){ width="500" }
 ### **Spelkeuze**
 Hierin kies je voor welk spel-onderdeel je instellingen wilt wijzigen. Je vind de spel-instellingen onderaan de pagina.<br>
-![](../assets/spelkeuze.jpg){ width="400" }
+![](../assets/spelkeuze.jpg){ width="500" }
 ### **Spel-instellingen**
 Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
 > Tip: Zorg dat je hier alles klaar hebt staan alvorens je de Huidige Scène aanklikt.
@@ -65,11 +65,11 @@ Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
 - Bij $ Bonnen kunnen extra QR-codes worden gegenereerd voor het geven/ontnemen van geld door de teams.<br>
 - Bij Planning kun je een tijd instellen wanneer een scene automatisch moet wisselen. Vooralsnog is hierbij een alarm niet mogelijk (10-aug-2026). Deze optie wordt nog toegevoegd.
 
-![](../assets/puzzel.jpg){ width="400" }
+![](../assets/puzzel.jpg){ width="500" }
 
 ### **Admin settings**
 Hierin kunnen diverse instellingen zoals teamnamen en wachtwoorden gewijzigd worden. De knop "Alles Resetten" heeft een veiligheidsfunctie, maar probeer hier alsnog niet op te klikken. Deze reset het gehele spel.
 
 Er is ook een LOG beschikbaar. Hierin worden alle acties binnen de applicatie geregistreerd.
 De status-button is een technische check of alles nog naar behoren werkt. Dit venster is ook beschikbaar op de iPad door 5x achter elkaar op de tijd links onderin te klikken.<br>
-![](../assets/settings.jpg){ width="50" }
+![](../assets/settings.jpg){ width="90" }
