@@ -3,10 +3,15 @@ Overzicht van alle geplande activiteiten en tijden.
 ---
 #### **[[Vrijdag/]]**
 13:00 verzamelen
+
 14:00 inleidend spel - strijd tegen elkaar????
+
 16:00 [[Ontvoering]]
+
 19:00 [[Paella]]
+
 20:00 Dropping????
+
 22:00 Bingo
 
 ---
