@@ -3,12 +3,17 @@ Stiekem uit elk team iemand ontvoeren en ze dan een opdracht laten uitvoeren waa
 ---
 
 **Wie:** -
+
 **Dag & tijd:** Vrijdag?
+
 **Locatie:** -
 
 ---
+
 ### Benodigdheden
+
 - [ ] -
 
 ---
+
 ### Notes

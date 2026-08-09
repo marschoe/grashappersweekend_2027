@@ -2,8 +2,8 @@
 
 ---
 
-**Wie:** Nina
-**Dag & tijd:** Zaterdag 20:00
+**Wie:** Nina<br>
+**Dag & tijd:** Zaterdag 20:00<br>
 **Locatie:** -
 
 ---

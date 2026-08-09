@@ -2,15 +2,19 @@
 
 ---
 
-**Wie:** Vera
-**Dag & tijd:** op random momenten in het weekend
+**Wie:** Vera<br>
+**Dag & tijd:** op random momenten in het weekend<br>
 **Locatie:** -
 
 ---
+
 ### Benodigdheden
+
 - [ ] Vragenlijst
 
 ---
+
 ### Notes
--Online vragenlijst
--Vragenlijst uiterlijk in December in laten vullen
+
+<p>-Online vragenlijst
+-Vragenlijst uiterlijk in December in laten vullen</p>
