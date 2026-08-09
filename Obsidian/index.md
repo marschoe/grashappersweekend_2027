@@ -1,7 +1,7 @@
 Overzicht van alle geplande activiteiten en tijden.
 
 ---
-#### **[[Vrijdag/]]**
+#### **Vrijdag**
 13:00 verzamelen
 
 14:00 inleidend spel - strijd tegen elkaar????
@@ -15,7 +15,7 @@ Overzicht van alle geplande activiteiten en tijden.
 22:00 Bingo
 
 ---
-#### **[[Zaterdag/]]**
+#### **Zaterdag**
 9:00 opstaan
 
 9:30 [[Ontbijt]]
@@ -35,7 +35,7 @@ Overzicht van alle geplande activiteiten en tijden.
 20:00 [[Casino avond]]
 
 ---
-#### **[[Grashappersweekend 2026/Zondag/]]**
+#### **Zondag**
 9:00 opstaan
 
 9:30 [[Ontbijt]]
