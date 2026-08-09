@@ -14,6 +14,8 @@ Een iPad zal centraal staan gedurende het weekend. Deze geeft de scores weer, ma
 
 Wat er gebeurt op iPad hebben wij in de hand via een controlepaneel op onze telefoon. Wij kiezen wat er te zien is, houden in de gaten wat de teams zelf doen, en kunnen corrigeren waar nodig.
 
+![](assets/ipad.jpg){ width="400" }
+
 
 ---
 
