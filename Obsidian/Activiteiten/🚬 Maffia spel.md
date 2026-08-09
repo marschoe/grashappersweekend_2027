@@ -43,9 +43,9 @@ Daarnaast kunnen we een aantal spellen spelen via de iPad:
 #### Het Baas-paneel
 
 Wij kunnen inloggen op het Baas-paneel. Een controlepaneel waarin wij het spel leiden en de teams in de gaten houden. Het Baas-paneel bestaat uit 4 delen:
-- Huidige scène
-- Spelkeuze
-- Spel-instellingen
+- Huidige scène<br>
+- Spelkeuze<br>
+- Spel-instellingen<br>
 - Admin-settings
 
 **Huidige scène**
@@ -61,17 +61,17 @@ Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
 > Tip: Zorg dat je hier alles klaar hebt staan alvorens je de Huidige Scène aanklikt.
 
 Teams:
-- Hier wijs je punten toe aan een team, of neem je punten van ze af. Dit doe je met de -10 en +10 knoppen, of voer zelf een bedrag in.
+- Hier wijs je punten toe aan een team, of neem je punten van ze af. Dit doe je met de -10 en +10 knoppen, of voer zelf een bedrag in.<br>
 - In de team kluizen zie je de dashboards van de teams. Je kunt hun eigen notities zien, en kunt Hints toevoegen of verwijderen.
 
 Uitdagingen:
-- Bij de Uitdagingen (spelletjes) is er de mogelijkheid om een beloning ($) toe te wijzen bij een juist voltooide uitdaging. 
-- Hieronder vind je een vinkje "Automatisch belonen". Dit betekent dat na het voltooien van de uitdaging, het team zichzelf kan selecteren op het scherm om de beloning toe te wijzen.
+- Bij de Uitdagingen (spelletjes) is er de mogelijkheid om een beloning ($) toe te wijzen bij een juist voltooide uitdaging. <br>
+- Hieronder vind je een vinkje "Automatisch belonen". Dit betekent dat na het voltooien van de uitdaging, het team zichzelf kan selecteren op het scherm om de beloning toe te wijzen.<br>
 - Ook is er de mogelijkheid om een maximaal aantal pogingen te geven om de uitdaging te voltooien. Wil je dit niet, vul dan gewoonweg een "0" in.
 
 Overig:
-- Stel een timer in, of voer een bericht toe.
-- Bij $ Bonnen kunnen extra QR-codes worden gegenereerd voor het geven/ontnemen van geld door de teams.
+- Stel een timer in, of voer een bericht toe.<br>
+- Bij $ Bonnen kunnen extra QR-codes worden gegenereerd voor het geven/ontnemen van geld door de teams.<br>
 - Bij Planning kun je een tijd instellen wanneer een scene automatisch moet wisselen. Vooralsnog is hierbij een alarm niet mogelijk (10-aug-2026). Deze optie wordt nog toegevoegd.
 
 **Admin settings**
