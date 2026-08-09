@@ -1,0 +1,31 @@
+site_name: Grashappersweekend 2027
+docs_dir: C:/Users/marti/Desktop/Grashappersweekend_2027/Obsidian
+
+theme:
+  name: material
+  language: nl
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Donkere modus
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Lichte modus
+
+plugins:
+  - search:
+      lang: nl
+  - roamlinks
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
