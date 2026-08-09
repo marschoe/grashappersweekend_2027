@@ -10,11 +10,11 @@
 | [[#Boodschappen\|Boodschappenlijst]] maken           |         | Januari   | niet te lang mee wachten ivm kostenbegroting                           |
 | Hoofdprijs bedenken                                  |         | Januari   | ivm kostenbegroting                                                    |
 | [[Casino avond]] uitdenken                           |         | Januari   | ivm kostenbegroting                                                    |
-| **==MEETING==**                                      |         |           | ivm kostenbegroting                                                    |
+| **==MEETING==**                                      | Allen   | Januari   | ivm kostenbegroting                                                    |
 | [[X-Games]] boeken                                   |         | Februari  |                                                                        |
 | Foto's zoeken voor Wanted Posters                    | Nina    | Februari  |                                                                        |
 | Te lenen items regelen                               |         | April     | o.a. Jan & Christel, partytent etc.                                    |
-| **==MEETING==**                                      |         |           | Voortgang & laatste dingen bespreken                                   |
+| **==MEETING==**                                      | Allen   | Mei       | Voortgang & laatste dingen bespreken                                   |
 | Uitnodiging maken                                    | Martijn | Mei       | incl. geheime opdracht                                                 |
 | Wanted posters maken                                 | Martijn | Mei       |                                                                        |
 | Aantal beloning-momenten uittellen                   | Martijn | Mei       | Voor spelbalans mbt. punten                                            |
