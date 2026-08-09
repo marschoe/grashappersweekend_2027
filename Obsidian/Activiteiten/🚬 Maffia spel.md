@@ -42,10 +42,10 @@ Wij kunnen inloggen op het Baas-paneel. Een controlepaneel waarin wij het spel l
 ### **Huidige scène**
 Door op de grote gele knoppen te klikken, wijzig je het momenteel zichtbare scherm op de iPad. Dit gebeurt live.
 
-Bij het aanvinken van het vinkje naast `🚨 Alarm bij volgende scènewissel (15 sec)` zal er eerst gedurende 15 seconden een alarm geluid klinken, en scherm knippert rood. Vervolgens komt automatisch de gekozen scène naar voren.
+Bij het aanvinken van het vinkje naast `🚨 Alarm bij volgende scènewissel (15 sec)` zal er eerst gedurende 15 seconden een alarm geluid klinken, en scherm knippert rood. Vervolgens komt automatisch de gekozen scène naar voren.<br>
 ![](../assets/huidigescene.jpg){ width="400" }
 ### **Spelkeuze**
-Hierin kies je voor welk spel-onderdeel je instellingen wilt wijzigen. Je vind de spel-instellingen onderaan de pagina.
+Hierin kies je voor welk spel-onderdeel je instellingen wilt wijzigen. Je vind de spel-instellingen onderaan de pagina.<br>
 ![](../assets/spelkeuze.jpg){ width="400" }
 ### **Spel-instellingen**
 Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
@@ -71,5 +71,5 @@ Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
 Hierin kunnen diverse instellingen zoals teamnamen en wachtwoorden gewijzigd worden. De knop "Alles Resetten" heeft een veiligheidsfunctie, maar probeer hier alsnog niet op te klikken. Deze reset het gehele spel.
 
 Er is ook een LOG beschikbaar. Hierin worden alle acties binnen de applicatie geregistreerd.
-De status-button is een technische check of alles nog naar behoren werkt. Dit venster is ook beschikbaar op de iPad door 5x achter elkaar op de tijd links onderin te klikken.
+De status-button is een technische check of alles nog naar behoren werkt. Dit venster is ook beschikbaar op de iPad door 5x achter elkaar op de tijd links onderin te klikken.<br>
 ![](../assets/settings.jpg){ width="150" }
