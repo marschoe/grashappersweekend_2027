@@ -72,4 +72,4 @@ Hierin kunnen diverse instellingen zoals teamnamen en wachtwoorden gewijzigd wor
 
 Er is ook een LOG beschikbaar. Hierin worden alle acties binnen de applicatie geregistreerd.
 De status-button is een technische check of alles nog naar behoren werkt. Dit venster is ook beschikbaar op de iPad door 5x achter elkaar op de tijd links onderin te klikken.<br>
-![](../assets/settings.jpg){ width="150" }
+![](../assets/settings.jpg){ width="50" }
