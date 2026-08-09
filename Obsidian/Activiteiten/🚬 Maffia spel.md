@@ -51,7 +51,6 @@ Hierin kies je voor welk spel-onderdeel je instellingen wilt wijzigen. Je vind d
 Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
 > Tip: Zorg dat je hier alles klaar hebt staan alvorens je de Huidige Scène aanklikt.
 
-![](../assets/puzzel.jpg)
 ##### Teams:
 - Hier wijs je punten toe aan een team, of neem je punten van ze af. Dit doe je met de -10 en +10 knoppen, of voer zelf een bedrag in.<br>
 - In de team kluizen zie je de dashboards van de teams. Je kunt hun eigen notities zien, en kunt Hints toevoegen of verwijderen.
@@ -66,25 +65,10 @@ Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
 - Bij $ Bonnen kunnen extra QR-codes worden gegenereerd voor het geven/ontnemen van geld door de teams.<br>
 - Bij Planning kun je een tijd instellen wanneer een scene automatisch moet wisselen. Vooralsnog is hierbij een alarm niet mogelijk (10-aug-2026). Deze optie wordt nog toegevoegd.
 
+![](../assets/puzzel.jpg)
+
 #### **Admin settings**
 Hierin kunnen diverse instellingen zoals teamnamen en wachtwoorden gewijzigd worden. De knop "Alles Resetten" heeft een veiligheidsfunctie, maar probeer hier alsnog niet op te klikken. Deze reset het gehele spel.
 
 Er is ook een LOG beschikbaar. Hierin worden alle acties binnen de applicatie geregistreerd.
 De status-button is een technische check of alles nog naar behoren werkt. Dit venster is ook beschikbaar op de iPad door 5x achter elkaar op de tijd links onderin te klikken.
-
-
----
-
-
-
-- [ ] Web app
-- [ ] Briefgeld met QR-codes
-- [ ] Uitnodigingsbrieven in thema (met sluipmoordenaar aanwijzing)
-- [ ] 
-
----
-
-### Notes
-
-- Wat is de prijs voor de winnaar?
-- Hoe maken we de winnaar bekend?
