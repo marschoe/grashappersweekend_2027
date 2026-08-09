@@ -43,10 +43,10 @@ Wij kunnen inloggen op het Baas-paneel. Een controlepaneel waarin wij het spel l
 Door op de grote gele knoppen te klikken, wijzig je het momenteel zichtbare scherm op de iPad. Dit gebeurt live.
 
 Bij het aanvinken van het vinkje naast `🚨 Alarm bij volgende scènewissel (15 sec)` zal er eerst gedurende 15 seconden een alarm geluid klinken, en scherm knippert rood. Vervolgens komt automatisch de gekozen scène naar voren.
-![](../assets/huidigescene.jpg)
+![](../assets/huidigescene.jpg){ width="400" }
 #### **Spelkeuze**
 Hierin kies je voor welk spel-onderdeel je instellingen wilt wijzigen. Je vind de spel-instellingen onderaan de pagina.
-![](../assets/spelkeuze.jpg)
+![](../assets/spelkeuze.jpg){ width="400" }
 #### **Spel-instellingen**
 Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
 > Tip: Zorg dat je hier alles klaar hebt staan alvorens je de Huidige Scène aanklikt.
@@ -65,7 +65,7 @@ Na het kiezen van de spelkeuze, kun je de instellingen ervan wijzigen.
 - Bij $ Bonnen kunnen extra QR-codes worden gegenereerd voor het geven/ontnemen van geld door de teams.<br>
 - Bij Planning kun je een tijd instellen wanneer een scene automatisch moet wisselen. Vooralsnog is hierbij een alarm niet mogelijk (10-aug-2026). Deze optie wordt nog toegevoegd.
 
-![](../assets/puzzel.jpg)
+![](../assets/puzzel.jpg){ width="400" }
 
 #### **Admin settings**
 Hierin kunnen diverse instellingen zoals teamnamen en wachtwoorden gewijzigd worden. De knop "Alles Resetten" heeft een veiligheidsfunctie, maar probeer hier alsnog niet op te klikken. Deze reset het gehele spel.
