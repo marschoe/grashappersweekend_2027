@@ -16,5 +16,5 @@
 
 ### Notes
 
-<p>-Online vragenlijst
--Vragenlijst uiterlijk in December in laten vullen</p>
+-Online vragenlijst<br>
+-Vragenlijst uiterlijk in December in laten vullen

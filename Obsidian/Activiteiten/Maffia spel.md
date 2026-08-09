@@ -2,18 +2,22 @@
 
 ---
 
-**Wie:** Martijn
-**Dag & tijd:** Hele weekend
-**Locatie:** -
+**Wie:** Martijn<br>
+**Dag & tijd:** Hele weekend<br>
+**Locatie:** -<br>
 
 ---
+
 ### Benodigdheden
+
 - [ ] Web app
 - [ ] Briefgeld met QR-codes
 - [ ] Uitnodigingsbrieven in thema (met sluipmoordenaar aanwijzing)
 - [ ] 
 
 ---
+
 ### Notes
+
 - Wat is de prijs voor de winnaar?
 - Hoe maken we de winnaar bekend?

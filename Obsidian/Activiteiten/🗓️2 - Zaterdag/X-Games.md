@@ -2,16 +2,20 @@
 
 ---
 
-**Wie:** Vera
-**Dag & tijd:** Zaterdag
-**Locatie:** FEC Sevenum
+**Wie:** Vera<br>
+**Dag & tijd:** Zaterdag<br>
+**Locatie:** FEC Sevenum<br>
 
 ---
+
 ### Benodigdheden
+
 - [ ] -
 
 ---
+
 ### Notes
+
 - (https://x-cube.nl/nl/games/)
 - Combineren met lunch in Sevenum
 

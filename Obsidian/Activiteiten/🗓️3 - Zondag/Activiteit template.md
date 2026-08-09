@@ -7,8 +7,11 @@
 **Locatie:** -
 
 ---
+
 ### Benodigdheden
+
 - [ ] -
 
 ---
+
 ### Notes

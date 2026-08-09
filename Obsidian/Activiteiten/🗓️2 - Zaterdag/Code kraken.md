@@ -2,13 +2,16 @@
 
 ---
 
-**Wie:** Martijn
-**Dag & tijd:** Zaterdag 
-**Locatie:** -
+**Wie:** Martijn<br>
+**Dag & tijd:** Zaterdag <br>
+**Locatie:** -<br>
 
 ---
+
 ### Benodigdheden
+
 - [ ] -app
 
 ---
+
 ### Notes
