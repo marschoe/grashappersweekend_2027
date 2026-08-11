@@ -11,7 +11,7 @@
 | Hoofdprijs bedenken                                  |         | Januari   | ivm kostenbegroting                                                    |
 | [[Casino avond]] uitdenken                           |         | Januari   | ivm kostenbegroting                                                    |
 | **==MEETING==**                                      | Allen   | Januari   | ivm kostenbegroting                                                    |
-| [[X-Games]] boeken                                   |         | Februari  |                                                                        |
+| [[X-Games]] boeken                                   | Vera    | Februari  |                                                                        |
 | Foto's zoeken voor Wanted Posters                    | Nina    | Februari  |                                                                        |
 | Te lenen items regelen                               |         | April     | o.a. Jan & Christel, partytent etc.                                    |
 | **==MEETING==**                                      | Allen   | Mei       | Voortgang & laatste dingen bespreken                                   |
